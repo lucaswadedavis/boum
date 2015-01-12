@@ -1,2 +1,2 @@
 # boum
-events - $jQuery - deferred
+events - jQuery - deferred
